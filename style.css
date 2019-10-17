@@ -10,3 +10,6 @@
 .hot{
     background-image: url('https://images.pexels.com/photos/273935/pexels-photo-273935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
 }
+body{
+    background-size: cover;
+}
